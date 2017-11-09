@@ -1,0 +1,11 @@
+[database]
+host = 192.168.1.16
+port = 3306
+user = root
+password = ****
+db_name = dut_website
+charset = UTF8
+
+[crawler]
+max_jobnum = 15
+init_url = http://www.dlut.edu.cn
